@@ -1,0 +1,5 @@
+# Schema for the theme setting configuration file of the ahimsatheme theme.
+
+ahimsatheme.settings:
+  type: theme_settings
+  label: 'ahimsatheme settings'
